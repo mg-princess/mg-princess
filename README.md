@@ -6,3 +6,4 @@
 
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/mg_princes.s/)](https://www.instagram.com/mg_princes.s/) 
+[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://mg-princess.tistory.com/) 
